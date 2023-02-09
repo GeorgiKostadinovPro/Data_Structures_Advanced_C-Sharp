@@ -15,4 +15,4 @@ Topics:
 
 Certificate:
 
-![Data Structures Advanced (with C#) - December 2022 - Certificate](https://user-images.githubusercontent.com/72508846/217921622-fc536562-5d59-440a-b4fe-42e9354f45a3.jpeg)
+![Uploading Data Structures Advanced (with C#) - December 2022 - Certificate.jpeg…]()
